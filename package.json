@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": "https://github.com/Antikiok/nextjs-tutorial.git",
+  "author": "Georg Grigoryan <antikiok@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.54.8"
+  }
+}
